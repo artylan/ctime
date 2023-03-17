@@ -8,7 +8,9 @@ Usage: ctime program.exe [args]
 Output:
 
 Real 00:00:03.3660589
+
 User 00:00:26.4531250
+
 Sys  00:00:00.0625000
 
 Here you can see, that program.exe needed 3.36 seconds to complete, 
