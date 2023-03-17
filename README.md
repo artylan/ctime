@@ -16,3 +16,5 @@ Sys  00:00:00.0625000
 Here you can see, that program.exe needed 3.36 seconds to complete, 
 but has used about 26.45 seconds user time! This app must have used 
 about 8 cores in the same time to make its computation.
+
+Visit me on https://artur-wystub.de/blog/ctime-das-aequivalent-zu-linux-time-fuer-windows/
